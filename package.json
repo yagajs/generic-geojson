@@ -1,0 +1,28 @@
+{
+  "name": "@yaga/generic-geojson",
+  "version": "1.0.0",
+  "description": "Enhancement of the original GeoJSON type definition for TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yagajs/generic-geojson.git"
+  },
+  "keywords": [
+    "geosjon",
+    "typescript",
+    "generic-definition",
+    "spatial"
+  ],
+  "author": "Arne Schubert <atd.schubert@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yagajs/generic-geojson/issues"
+  },
+  "homepage": "https://github.com/yagajs/generic-geojson#readme",
+  "dependencies": {
+    "@types/geojson": "0.0.32"
+  }
+}
